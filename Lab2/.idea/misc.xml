@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Lab2PartA/Lab2PartA/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab2PartB/Lab2PartA/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab2Part3/BankApplication/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab2Part4/BankApplication/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" default="true" project-jdk-name="openjdk-19" project-jdk-type="JavaSDK" />
+</project>

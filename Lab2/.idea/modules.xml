@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lab2Part3/BankApplication/BankApplication.iml" filepath="$PROJECT_DIR$/Lab2Part3/BankApplication/BankApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab2Part4/BankApplication/BankApplication (1).iml" filepath="$PROJECT_DIR$/Lab2Part4/BankApplication/BankApplication (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Lab2.iml" filepath="$PROJECT_DIR$/.idea/Lab2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab2PartA/Lab2PartA/Lab2PartA.iml" filepath="$PROJECT_DIR$/Lab2PartA/Lab2PartA/Lab2PartA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab2PartB/Lab2PartA/Lab2PartA (1).iml" filepath="$PROJECT_DIR$/Lab2PartB/Lab2PartA/Lab2PartA (1).iml" />
+    </modules>
+  </component>
+</project>
