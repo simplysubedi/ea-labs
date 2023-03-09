@@ -1,0 +1,2 @@
+Time taken to add all Person and their Pets in HSQL: 80521 ms
+Time taken to retrieve all the Person is: 274 ms

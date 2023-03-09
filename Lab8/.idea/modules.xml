@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lab8PartA(BankApplication)/BankApplication.iml" filepath="$PROJECT_DIR$/Lab8PartA(BankApplication)/BankApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab8PartD(BankApplication)/BankApplication (1).iml" filepath="$PROJECT_DIR$/Lab8PartD(BankApplication)/BankApplication (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Lab8.iml" filepath="$PROJECT_DIR$/.idea/Lab8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab8PartC/Lab8PartC(HSQL)/Lab8PartC.iml" filepath="$PROJECT_DIR$/Lab8PartC/Lab8PartC(HSQL)/Lab8PartC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab8PartB/lesson08-spring-boot-mongo-example.iml" filepath="$PROJECT_DIR$/Lab8PartB/lesson08-spring-boot-mongo-example.iml" />
+    </modules>
+  </component>
+</project>

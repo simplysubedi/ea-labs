@@ -1,0 +1,4 @@
+Once all the methods of AccountServices are Transactional, we don't need AccountEntry
+to be fetched eagerly as the method getAccount already has been Transactional where fetching of all
+the Account and AccountEntry will happen in same Transaction when committed, as transaction of Account
+and list of Account will be fetched.

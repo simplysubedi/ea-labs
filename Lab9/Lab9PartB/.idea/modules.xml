@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lab9PartB(BankApplication)/BankApplication.iml" filepath="$PROJECT_DIR$/Lab9PartB(BankApplication)/BankApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Lab9PartB.iml" filepath="$PROJECT_DIR$/.idea/Lab9PartB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson9PartB-rest-client/lesson09-rest-client.iml" filepath="$PROJECT_DIR$/Lesson9PartB-rest-client/lesson09-rest-client.iml" />
+    </modules>
+  </component>
+</project>
