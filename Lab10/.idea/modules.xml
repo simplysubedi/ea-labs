@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Lab10.iml" filepath="$PROJECT_DIR$/.idea/Lab10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab10-Client/Lab10-Client/Lab10-Client.iml" filepath="$PROJECT_DIR$/Lab10-Client/Lab10-Client/Lab10-Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab10-Client-Calculator/Lab10-Client/Lab10-Client (1).iml" filepath="$PROJECT_DIR$/Lab10-Client-Calculator/Lab10-Client/Lab10-Client (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab10-Service/Lab10-Service/Lab10-Service.iml" filepath="$PROJECT_DIR$/Lab10-Service/Lab10-Service/Lab10-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab10-Calculator/Lab10-Service/Lab10-Service (1).iml" filepath="$PROJECT_DIR$/Lab10-Calculator/Lab10-Service/Lab10-Service (1).iml" />
+    </modules>
+  </component>
+</project>

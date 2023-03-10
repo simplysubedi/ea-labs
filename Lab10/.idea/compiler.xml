@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Lab10-Client" />
+        <module name="Lab10-Service" />
+        <module name="Lab10-Client (1)" />
+        <module name="Lab10-Service (1)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Lab10-Client" target="1.8" />
+      <module name="Lab10-Client (1)" target="1.8" />
+      <module name="Lab10-Service" target="1.8" />
+      <module name="Lab10-Service (1)" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Lab10-Client" options="-parameters" />
+      <module name="Lab10-Client (1)" options="-parameters" />
+      <module name="Lab10-Service" options="-parameters" />
+      <module name="Lab10-Service (1)" options="-parameters" />
+    </option>
+  </component>
+</project>
