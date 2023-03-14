@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Lab11Sender" />
+        <module name="BankApplicationPartA" />
+        <module name="TaxService" />
+        <module name="Lab11Receiver" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="BankApplicationPartA" target="1.8" />
+      <module name="Lab11Receiver" target="1.8" />
+      <module name="Lab11Sender" target="1.8" />
+      <module name="TaxService" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="BankApplicationPartA" options="-parameters" />
+      <module name="Lab11Receiver" options="-parameters" />
+      <module name="Lab11Sender" options="-parameters" />
+      <module name="TaxService" options="-parameters" />
+    </option>
+  </component>
+</project>
