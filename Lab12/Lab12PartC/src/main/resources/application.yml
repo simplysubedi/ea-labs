@@ -1,0 +1,16 @@
+#Application
+application:
+  name: Lab12PartC
+  version: 1.1.2
+  server:
+    url: https://www.abc.com
+    name: BobindraKoServer
+  user:
+    firstName: Bobindra
+    lastName: Frank
+    userName: Bob
+    password: Abc123
+  countries:
+    - US
+    - UK
+    - AUS
